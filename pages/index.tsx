@@ -12,4 +12,6 @@ export const getStaticProps: GetStaticProps = async () => {
   };
 };
 
+export const something = () => {};
+
 export default Home;
